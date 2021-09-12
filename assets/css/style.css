@@ -6735,5 +6735,5 @@ blockquote::before,
 }
 
 .meanmenu-reveal{
-  display: none;
+  display: none !important;
 }
