@@ -4,7 +4,7 @@
 body::-webkit-scrollbar {
   width: 7px;
 }
- 
+
 body::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   border-radius: 50px;
@@ -394,7 +394,7 @@ img {
   padding-top: 0;
   padding-bottom: 0;
 }
-.navbar-brand img{
+.navbar-brand img {
   width: 200px;
 }
 .evolta-nav {
@@ -6732,4 +6732,13 @@ blockquote::before,
   opacity: 1;
   visibility: visible;
   top: 50%;
+}
+
+.mean-container a.meanmenu-reveal {
+  padding-top: 0px !important;
+  top: 9px !important;
+}
+
+.evolta-responsive-nav .evolta-responsive-menu.mean-container .navbar-nav {
+  height: 100%;
 }
