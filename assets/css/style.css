@@ -6733,7 +6733,3 @@ blockquote::before,
   visibility: visible;
   top: 50%;
 }
-
-.meanmenu-reveal{
-  display: none !important;
-}
